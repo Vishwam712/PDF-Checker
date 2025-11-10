@@ -1,0 +1,52 @@
+<div class="container">
+  <h2>PDF Checker</h2>
+
+  <!-- Upload & Check -->
+  <div class="box">
+    <div class="row">
+      <input type="file" (change)="onFileSelected($event)" accept="application/pdf" />
+      <button (click)="uploadFile()" [disabled]="!selectedFile || uploading">
+        {{ uploading ? 'Uploading...' : 'Upload' }}
+      </button>
+      <button (click)="checkFile()" [disabled]="!fileId || checking">
+        {{ checking ? 'Checking...' : 'Check' }}
+      </button>
+    </div>
+
+    <div *ngIf="successMessage" class="success">
+      ✅ {{ successMessage }}
+    </div>
+
+    <div *ngIf="errors.length" class="errors">
+      <h3>Errors Found</h3>
+      <ul>
+        <li *ngFor="let e of errors">
+          <ng-container *ngIf="e.page !== undefined && e.page !== null">Page {{ e.page }}: </ng-container>
+          {{ e.message }}
+        </li>
+      </ul>
+
+      <div *ngIf="downloadUrl" class="download">
+        <a [href]="downloadUrl" target="_blank" rel="noopener">⬇ Download Highlighted PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Validation Rules -->
+  <div class="box">
+    <div class="row space-between">
+      <h3>Validation Rules</h3>
+    </div>
+
+    <ul class="rules">
+      <li *ngFor="let v of validations">
+        <div class="rule">
+          <div class="meta">
+            <b>{{ v.ruleName }}</b>
+            <div class="desc">{{ v.description }}</div>
+          </div>
+        </div>
+      </li>
+    </ul>
+
+</div>
