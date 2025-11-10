@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "PdfChecker.API.Controllers.PdfController",
+    "Method": "CheckPdf",
+    "RelativePath": "api/Pdf/check/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PdfChecker.API.Controllers.PdfController",
+    "Method": "Ping",
+    "RelativePath": "api/Pdf/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PdfChecker.API.Controllers.PdfController",
+    "Method": "Upload",
+    "RelativePath": "api/Pdf/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PdfChecker.API.Controllers.ValidationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Validation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PdfChecker.API.Controllers.ValidationController",
+    "Method": "Create",
+    "RelativePath": "api/Validation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rule",
+        "Type": "PdfChecker.API.Model.ValidationRule",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PdfChecker.API.Controllers.ValidationController",
+    "Method": "Update",
+    "RelativePath": "api/Validation/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rule",
+        "Type": "PdfChecker.API.Model.ValidationRule",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PdfChecker.API.Controllers.ValidationController",
+    "Method": "Delete",
+    "RelativePath": "api/Validation/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

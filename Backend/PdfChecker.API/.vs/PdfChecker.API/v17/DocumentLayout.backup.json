@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|c:\\users\\admin\\downloads\\pdfchecker\\backend\\pdfchecker.api\\services\\pdfparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|solutionrelative:services\\pdfparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|c:\\users\\admin\\downloads\\pdfchecker\\backend\\pdfchecker.api\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|solutionrelative:controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|c:\\users\\admin\\downloads\\pdfchecker\\backend\\pdfchecker.api\\services\\mylocationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|solutionrelative:services\\mylocationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|c:\\users\\admin\\downloads\\pdfchecker\\backend\\pdfchecker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|c:\\users\\admin\\downloads\\pdfchecker\\backend\\pdfchecker.api\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A083C29-92AE-0710-B4AA-761FC9EABBE8}|PdfChecker.API.csproj|solutionrelative:controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfParserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Services\\PdfParserService.cs",
+              "RelativeDocumentMoniker": "Services\\PdfParserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Services\\PdfParserService.cs",
+              "RelativeToolTip": "Services\\PdfParserService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv50AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:40:14.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:31:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLocationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Services\\MyLocationStrategy.cs",
+              "RelativeDocumentMoniker": "Services\\MyLocationStrategy.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Services\\MyLocationStrategy.cs",
+              "RelativeToolTip": "Services\\MyLocationStrategy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:00:01.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "Controllers\\PdfController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:42:45.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Controllers\\ValidationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValidationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PdfChecker\\Backend\\PdfChecker.API\\Controllers\\ValidationController.cs",
+              "RelativeToolTip": "Controllers\\ValidationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:19:17.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

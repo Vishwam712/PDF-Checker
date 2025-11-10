@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2NfS4Ev68yfgFAUvT7hU6NxT0okoXaK7pzU+r0LIIYo=",
+  "Source": "PdfChecker.API",
+  "BasePath": "_content/PdfChecker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
